@@ -1,2 +1,3 @@
 # 2048Game
-An 2048 web app. Used neural network as my agent.
+SJTU EE369 course project
+An agent for 2048 web app. Used neural network as my agent.
